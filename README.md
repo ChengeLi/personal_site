@@ -11,7 +11,7 @@ I am _Lexi Chenge Li_, a fourth year PhD student studying **machine learning** a
 
 ## Research Projects
 
-#### Towards Solving Detection and Tracking Simutaneously
+### Towards Solving Detection and Tracking Simutaneously
 ![tube_example](./images/tube_example.jpg)
 
 
@@ -27,28 +27,29 @@ We will treat detection and tracking as one whole problem and try to tackle them
 
 ----------------
 
-#### Robust Vehicle Tracking at Urban Intersections
+### Robust Vehicle Tracking at Urban Intersections
 [Vehicle Tracking site](http://chengeli.github.io/VehicleTracking/)
 
 ----------------
 
-#### A Comparison of Machine Learning and Feature Selection Methods for Predicting Breast Cancer Related Lymphedema [Master's Thesis]  
+### A Comparison of Machine Learning and Feature Selection Methods for Predicting Breast Cancer Related Lymphedema [Master's Thesis]  
 
 ----------------
 
-#### Semantic Grouping
+### Semantic Grouping
 [ Semantic Grouping site](http://chengeli.github.io/semantic_grouping/)
 
 ----------------
 
-#### Human Upper Body Segmentation
+### Human Upper Body Segmentation
 [Poster](https://github.com/ChengeLi/semantic_grouping/blob/master/Human%20Upper%20Body%20Segmenta2on.pdf)
 
 ----------------
 
-##Prize🏆
-**Grand Prize** for the **MLBAM Automatic Video Annotation Challenge**  
-May 11, 2015
+##Prize  🏆
+
+**Grand Prize** for the _MLBAM Automatic Video Annotation Challenge_ held by [NYC Media Lab](http://nycmedialab.org/)
+May 11, 2015 
 
 
 
