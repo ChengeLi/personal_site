@@ -1,6 +1,9 @@
 # Welcome to Chenge's Website
 
+![background](./images/caves.jpg)
+
 ## About me
+
 Hello World!  😎
 
 I am _Lexi Chenge Li_, a fourth year PhD student studying **machine learning** and **computer vision** at the [Video Lab](http://vision.poly.edu/index.html/) at New York University. My supervisor is Prof. [Yao Wang](http://eeweb.poly.edu/~yao/).
@@ -9,8 +12,15 @@ I am _Lexi Chenge Li_, a fourth year PhD student studying **machine learning** a
 ## Research Projects
 
 #### Towards Solving Detection and Tracking Simutaneously
+![tube_example](./images/tube_example.jpg)
+
+
 
 Object detection in 2D still images are already pretty successfully. With works such as faster rCNN, YOLO, SSD etc, we can already do real-	time object detection across multiple classes. What about videos? Can we do object detection in videos as accurate as in images now? What about tracking them? Is there a way to detect and track mutiple objects simutaneously? Is there a way to solve this more elegantly?
+
+![objectiveness_score](./images/20012.gif)
+
+![objectiveness_score](./images/Cloudy39931.gif)
 
 
 We will treat detection and tracking as one whole problem and try to tackle them at the same time.
@@ -35,25 +45,9 @@ We will treat detection and tracking as one whole problem and try to tackle them
 
 ----------------
 
-##Prize
+##Prize🏆
 **Grand Prize** for the **MLBAM Automatic Video Annotation Challenge**  
 May 11, 2015
-
-##Supervisors:
-
-Prof. Yao Wang, New York University,	 yw523@nyu.edu
-
-Dr. Greg Dobler, New York University,  greg.dobler@nyu.edu 
-
-## Information
-If you have any questions or need more detailed explanations, 
-please email Chenge Li for further information. :D
-
-
-## License
-MIT License
-
-
 
 
 
