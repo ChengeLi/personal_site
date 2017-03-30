@@ -11,19 +11,28 @@ I am _Lexi Chenge Li_, a fourth year PhD student studying **machine learning** a
 
 ## Research Projects
 
-### Towards Solving Detection and Tracking Simutaneously
-![tube_example](./images/tube_example.jpg)
+### TrackNet: Joint Object Detection and Tracking (submitted to ICCV 2017)
 
+Object detection and object tracking are usually treated as two separate processes. Object detection in still images
+relies on spatial appearance features, whereas object tracking in videos relies on both spatial appearance and temporal
+motion features. Significant progress has been made for object detection in 2D images (or video frames) using deep
+learning networks such as region CNN and subsequent variants. The usual pipeline for object tracking requires that
+the object be successfully detected in the first frame or in every frame, and tracking is done by “associating” detection
+results. However, performing object detection and object tracking through a single network remains a challenging
+open question. 
 
+We propose a novel network structure that can directly detect a 3D tube enclosing a moving object
+in a video by extending the region-CNN framework for object detection in an image. The proposed trackNet works
+over short video segments and outputs a bounding tube for each detected moving object, which includes shifted bounding boxes covering the detected object in successive frames. A Tube Proposal Network (TPN) inside the trackNet is proposed to predict the objectiveness of each candidate tube and location parameters specifying the bounding tube with a high objectiveness score. 
 
-Object detection in 2D still images are already pretty successfully. With works such as faster rCNN, YOLO, SSD etc, we can already do real-	time object detection across multiple classes. What about videos? Can we do object detection in videos as accurate as in images now? What about tracking them? Is there a way to detect and track mutiple objects simutaneously? Is there a way to solve this more elegantly?
+### Model Architecture
+![flowchart](./images/flowchart.JPG)
 
-![objectiveness_score](./images/20012.gif)
+### Detection results
+![detections](./images/detections.JPG)
 
-![objectiveness_score](./images/Cloudy39931.gif)
-
-
-We will treat detection and tracking as one whole problem and try to tackle them at the same time.
+### Joint Detection & Tracking by Bounding Tubes
+![tubes](./images/tubes.jpg)
 
 ----------------
 
@@ -52,5 +61,7 @@ We will treat detection and tracking as one whole problem and try to tackle them
 May 11, 2015 
 
 
+
+Last Update: Mar 20, 2017 
 
 
