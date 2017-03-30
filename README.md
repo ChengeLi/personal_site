@@ -26,10 +26,10 @@ in a video by extending the region-CNN framework for object detection in an imag
 over short video segments and outputs a bounding tube for each detected moving object, which includes shifted bounding boxes covering the detected object in successive frames. A Tube Proposal Network (TPN) inside the trackNet is proposed to predict the objectiveness of each candidate tube and location parameters specifying the bounding tube with a high objectiveness score. 
 
 ### Model Architecture
-![flowchart](./images/flowchart.JPG)
+![flowchart](./images/flowchart.jpg)
 
 ### Detection results
-![detections](./images/detections.JPG)
+![detections](./images/detections.jpg)
 
 ### Joint Detection & Tracking by Bounding Tubes
 ![tubes](./images/tubes.jpg)
