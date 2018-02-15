@@ -32,8 +32,6 @@ over short video segments and outputs a bounding tube for each detected moving o
 
 ![detections](./images/detection_track-eps-converted-to.jpg)
 
-
-
 ----------------
 
 ### Robust Vehicle Tracking at Urban Intersections
