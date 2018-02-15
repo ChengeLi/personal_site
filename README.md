@@ -26,11 +26,11 @@ in a video by extending the region-CNN framework for object detection in an imag
 over short video segments and outputs a bounding tube for each detected moving object, which includes shifted bounding boxes covering the detected object in successive frames. A Tube Proposal Network (TPN) inside the trackNet is proposed to predict the objectiveness of each candidate tube and location parameters specifying the bounding tube with a high objectiveness score. 
 
 ### Model Architecture
-![flowchart](./images/flowchart.pdf)
+![flowchart](./images/flowchart.jp2)
 
 ### Joint Detection & Tracking by Bounding Tubes
 
-![detections](./images/detection_track-eps-converted-to.pdf)
+![detections](./images/detection_track-eps-converted-to.jp2)
 
 
 
@@ -55,14 +55,17 @@ over short video segments and outputs a bounding tube for each detected moving o
 
 ----------------
 
-##Internship
+## Internship
 **Apple** Inc. Cupertino, CA
 
 Jun 2017 – Aug 2017 summer internship
 Computer vision research intern. 
 Single image super resolution using convolutional neural networks.
 
-##Publications
+----------------
+
+## Publications
+
 * Chenge Li, Gregory Dobler, Yilin Song, Xin Feng, and Yao Wang. “TrackNet: Simultaneous Detection and Tracking of Multiple Objects” (under review) 
 * Yilin Song, Chenge Li, and Yao Wang. “Pixel-wise object tracking” (under review)
 * Chenge Li, A. Chiang, Gregory Dobler, Y. Wang, Kun Xie, Kaan Ozbay, Masoud Ghandehari, J. Zhou, and D. Wang. "Robust vehicle tracking for urban traffic videos at intersections." In Advanced Video and Signal Based Surveillance (AVSS), 2016 13th IEEE International Conference on, pp. 207-213. IEEE, 2016.
@@ -73,7 +76,7 @@ Single image super resolution using convolutional neural networks.
 
 
 
-##Prize  🏆
+## Prize  🏆
 
 **Grand Prize** for the _MLBAM Automatic Video Annotation Challenge_ held by [NYC Media Lab](http://nycmedialab.org/)
 May 11, 2015 
