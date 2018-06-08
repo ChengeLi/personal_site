@@ -6,9 +6,9 @@
 
 Hello World!  😎
 
-I am _Chenge Li_, a fifth year PhD student studying **machine learning** and **computer vision** at the [Video Lab](http://vision.poly.edu/index.html/) at New York University. My supervisor is Prof. [Yao Wang](http://eeweb.poly.edu/~yao/). Prior to NYU, I have obtained Bachelor's degree in Communication Engineering from Tianjin University, China. I have also spent a wonderful junior year exchanging in The University of Hong Kong.
+I am _Chenge Li_, a fifth year PhD student studying **machine learning** and **computer vision** at the [Video Lab](http://vision.poly.edu/index.html/) at New York University. My supervisor is Prof. [Yao Wang](http://eeweb.poly.edu/~yao/). Prior to NYU, I have obtained Bachelor's degree in Communication Engineering from [Tianjin University](http://www.tju.edu.cn/), China. I have also spent a wonderful junior year exchanging at [The University of Hong Kong](https://hku.hk/).
 
-_I am looking for a full-time position after my expected graduation in December 2018._
+_I am looking for a full-time position after my expected graduation in December 2018._ 🎓
 
 
 ## Research Projects
